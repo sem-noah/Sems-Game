@@ -11,7 +11,7 @@ This game is made with unity.
 ### Install the game
 To install the game, you have to do this:
 - First, download a zip file of the files
-- Then, unpack the zip file in the documents folder
+- Then, unpack the zip file (in the documents folder)
 - And lastly, create a shortcut
 
 <br><br>
