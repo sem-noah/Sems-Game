@@ -1,6 +1,7 @@
 # Sems-Game
 This is a repository where the files for my first game called: 'Sems Game', is stored.
 <br><br><br>
+
 ## About
 In this game you can control a ball in a playground. 
 You can jump and move around the screen. 
@@ -46,6 +47,7 @@ These are the controls:
 - To move left, press `A` or `←`
 - To move right, press `D` or `→`
 - To jump, press `Space`
+
 
 <br><br><br>
 **Have fun playing the game, bye!**
