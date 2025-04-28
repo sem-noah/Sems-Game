@@ -17,21 +17,21 @@ To install the game, you have to do this:
 <br><br>
 **Look here for the expanded information:**
 <br><br>
-First, click on the green 'code' button that is located in the upper right of this webpage.
+First, click on the green `<code>` button that is located in the upper right of this webpage.
 <br>
-Then click on 'Download zip' and download the zip file into your downloads folder on your pc.
+Then choose `Download zip` and download the zip file into your downloads folder on your pc.
 <br><br>
-When you've done that, right click on the zip file and choose: 'Unpack all'.
+When you've done that, right click on the zip file and choose `Unpack all`.
 <br>
 Unpack this zip file into your documents folder.
 <br><br>
-When that's done, go into the just unpacked file called: 'Sems-Game-main', that is located in your documents folder.
+When that's done, go into the just unpacked file called: `Sems-Game-main`, that is located in your documents folder.
 <br>
 Then go to files.
 <br>
-And then right click on the file called: 'Sems Game.exe'.
+And then right click on the file called: `Sems Game.exe`.
 <br>
-When you've done that, choose 'View more options' and click: 'Make a Shortcut'.
+When you've done that, choose `View more options` and choose `Make a Shortcut`.
 <br>
 Now, there should pop up a shortcut of that file.
 <br>
