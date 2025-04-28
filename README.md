@@ -9,4 +9,5 @@ Because otherwise, you fall off the playground and you can't come back anymore!
 This game is made with unity.
 <br><br>
 ## How to install & play
+### Install the game
 To install the game,
