@@ -7,6 +7,7 @@ In this game you can control a ball in a playground.
 You can jump and move around the screen. 
 But do not Get too close to the edge. 
 Because otherwise, you fall off the playground and you can't come back anymore!
+<br>
 This game is made with unity.
 <br><br>
 ## How to install & play
