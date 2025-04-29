@@ -12,7 +12,7 @@ This game is made with unity.
 To install the game, you have to do this:
 - First, download a zip file of the files
 - Then, unpack the zip file (in the documents folder)
-- And lastly, create a shortcut
+- And lastly, create a shortcut of `Sems Game.exe`
 
 <br><br>
 **Look here for the expanded information:**
