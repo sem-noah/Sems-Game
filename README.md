@@ -27,8 +27,6 @@ Unpack this zip file into your documents folder.
 <br><br>
 When that's done, go into the just unpacked file called: `Sems-Game-main`, that is located in your documents folder.
 <br>
-Then go to files.
-<br>
 And then right click on the file called: `Sems Game.exe`.
 <br>
 When you've done that, choose `View more options` and choose `Make a Shortcut`.
