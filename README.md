@@ -46,4 +46,4 @@ These are the controls:
 
 
 <br><br><br>
-**Have fun playing the game, bye!**
+**Have fun playing the game!**
