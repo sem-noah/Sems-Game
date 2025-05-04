@@ -35,7 +35,7 @@ Now, there should pop up a shortcut of that file.
 <br>
 Then drag this to your Desktop and you have a shorcut, right on your Desktop!
 ### Play the game
-To play the game, you can just simply click on the shotcut and you're playing the game.
+To play the game, you can just simply double click on the shortcut and you're playing the game.
 <br>
 And to close the game, you can press `Alt`+`F4` at the same time.
 <br><br>
